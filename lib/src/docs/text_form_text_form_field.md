@@ -1,5 +1,3 @@
----
-
 ## 🟦 1. `TextField` и `TextFormField` — в чём разница?
 
 | Свойство              | `TextField`         | `TextFormField`            |
